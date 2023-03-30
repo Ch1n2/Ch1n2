@@ -1,29 +1,12 @@
-### Hi, I'm Chinz. 👋
+## Hi, I'm Chinz. 👋 
+![GitHub followers](https://img.shields.io/github/followers/Ch1n2?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/Ch1n2?style=social)
 
-- 🔭 I’m now working for TAL.
-- 🌱 I’m a pupil of front-end learning. 
-- 🤔 I’m currently coding in Javascript PHP and C#.
-- ❤️ I like playing Onmyoji 🌩 and Crazy-racing Kart-rider 🚗.
+- 🔭 I’m now working for 💰.
+- 🌱 I’m a Cyber Security Researcher 🌩. 
+- 🤔 I’m currently coding in Java Golang and Python.
+- ❤️ I like 💰 and 🚗.
 - 💬 Be free to ask me about anything [here](https://github.com/Ch1n2).
 
-### My Contributions
-![](https://raw.githubusercontent.com/Ch1n2/Ch1n2/main/assets/github-contribution-grid-snake.svg)
-
+## My Contributions
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ch1n2&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch1n2&hide_border=true">
-
-
-
-
-
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ch1n2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> |                                |
-| ------------------------------------------------------------ | ------------------------------ |
-|                                                              |                                |
-|                                                              | ***\*###\** 你好，我是Chin_z** |
-|                                                              |                                |
-|                                                              |                                |
-|                                                              |                                |
-|                                                              | - :smile:                      |
-|                                                              | - :blowfish:                   |
-|                                                              | - :bath:                       |
-
